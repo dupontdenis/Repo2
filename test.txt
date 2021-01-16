@@ -1,10 +1,4 @@
  Le volume dans le lecteur C s'appelle OS
  Le num‚ro de s‚rie du volume est 3034-F2DF
 
- R‚pertoire de C:\Users\denis.dupont\Desktop\TESTGIT
 
-16/01/2021  16:52    <DIR>          .
-16/01/2021  16:52    <DIR>          ..
-16/01/2021  16:54                 0 test.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  319ÿ447ÿ654ÿ400 octets libres
